@@ -24,7 +24,7 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-resp = requests.request("GET", f'https://fastline.space/api/{guild_id}', headers=headers, data={"token": token})
+resp = requests.request("GET", f'https://reina.guru/api/{guild_id}', headers=headers, data={"token": token})
 
 print(resp.text) # returns json with information from your server
 
