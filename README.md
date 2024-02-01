@@ -10,7 +10,7 @@
 ### A: You can view only inforamtion about members on server, which token contains. You can see only EXP, online, balance and history of punishments (`max: 50`). You view same information on your guild by using commands, which accessable to everyone by default.
 
 ### Q: Where can I get token to use API?
-### A: Create ticket on https://fastline.space/discord in tickets channel. After admins confirm that you are OWNER of this server you will get the token.
+### A: Create ticket on https://reina.guru/discord in tickets channel. After admins confirm that you are OWNER of this server you will get the token.
 
 # Short example on python code
 
